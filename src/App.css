@@ -1,0 +1,50 @@
+.heading{
+  width: 90%; 
+  max-width: 1200px;
+  
+  height: auto;
+  top: 10%;
+  left: 50%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 200;
+  font-size: 2.5em; 
+  line-height: 1.5; 
+  letter-spacing: 0.03em; 
+  text-align: center;
+  color: #ffff;
+  word-wrap: break-word;
+}
+
+body{
+  overflow-x: hidden;
+}
+.banner {
+  width: 90%; 
+  max-width: 100%;
+  height: auto; 
+  top: 10%; 
+  left: 50%; 
+}
+.para{
+ 
+    width: 90%; 
+    max-width: 100%; 
+    height: auto; 
+    top: 50%; 
+    left: 50%; 
+    opacity: 0.8; 
+    
+    font-family: 'Poppins', sans-serif; 
+    font-size: 1.2em; 
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0; 
+    text-align: center;
+  
+}
+.button{
+     width: 30%; 
+    height: 8vh; 
+    top: 70vh; 
+    left: 50%; 
+}
